@@ -35,4 +35,4 @@ def login():
 
 # Приклад використання
 login()
-#print(users)
+print(users)
